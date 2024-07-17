@@ -1,5 +1,5 @@
 # Preview
-> Link - https://ganesha-007.github.io/Apple-Website-Clone/
+> Link - [https://ganesha-007.github.io/Apple-Website-Clone/](https://github.com/ganesha-007/Apple-Clone)
 <br> 
 
 > Home Page
