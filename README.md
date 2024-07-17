@@ -1,5 +1,5 @@
 # Preview
-> Link - https://adiyadav123.github.io/Apple-Website-Clone/
+> Link - https://ganesha-007.github.io/Apple-Website-Clone/
 <br> 
 
 > Home Page
